@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'slam-vio-bbe6b491b7934edc98329a6948fdebf9',
+  rootNotionPageId: '874cc91543e74efeb59e1c61cbc71512?v=865618c85aed48a3ad4fab60cb7a426c',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'SLAM&VIO',
-  domain: 'https://www.notion.so/slam-vio-bbe6b491b7934edc98329a6948fdebf9',
+  domain: 'https://www.notion.so/874cc91543e74efeb59e1c61cbc71512?v=865618c85aed48a3ad4fab60cb7a426c',
   author: '李小白',
 
   // open graph metadata (optional)
